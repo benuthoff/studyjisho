@@ -1,0 +1,15 @@
+{
+	"title": "Study-Jisho Dictionary",
+	"version": 0,
+	"types": {
+		"phrase": ["japanese","romaji","type","tags"]
+	},
+	"data": [
+		{
+			"japanese": "おはよう",
+			"romaji": "ohayou",
+			"type": "phrase",
+			"tags": ["Genki_1_Lesson_0"]
+		}
+	]
+}

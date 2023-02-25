@@ -1,0 +1,21 @@
+body {
+	margin: 24px;
+	font-size: 18px;
+	display: grid;
+	grid-template-columns: auto;
+	grid-template-rows: auto auto;
+	gap: 24px;
+}
+
+#searchbar {
+	width: auto;
+	font-size: inherit;
+	padding: 12px;
+	border: solid 1px #616161;
+	border-radius: 6px;
+	outline: none !important;
+}
+
+#dictionary_table {
+	
+}
